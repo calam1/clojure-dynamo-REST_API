@@ -1,6 +1,6 @@
 # promote-product
 
-simple GET REST api retrieving product(s)
+simple GET REST api retrieving product(s) uses Compojure for routing and Liberator for RESTful api
 
 # curl example
 
